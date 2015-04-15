@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1427430795 source:e:\programmer\cpp_work_tanchishe\main.cpp
+	<snake.h>
+	<map_snake.h>
+	<conio.h>
+	<windows.h>
+
+1427432909 source:e:\programmer\cpp_work_tanchishe\src\snake.cpp
+	"snake.h"
+	<windows.h>
+	<conio.h>
+	<iostream>
+
+1427294356 e:\programmer\cpp_work_tanchishe\include\snake.h
+	"map_snake.h"
+	<list>
+	<po.h>
+
+1427431159 source:e:\programmer\cpp_work_tanchishe\src\map_snake.cpp
+	"map_snake.h"
+	<iostream>
+	<iomanip>
+	<windows.h>
+
+1427430781 e:\programmer\cpp_work_tanchishe\include\map_snake.h
+	<snake.h>
+	<po.h>
+	<apple.h>
+
+1427210227 e:\programmer\cpp_work_tanchishe\include\po.h
+
+1427280105 source:e:\programmer\cpp_work_tanchishe\src\apple.cpp
+	"apple.h"
+	<iostream>
+	<windows.h>
+	<time.h>
+
+1427278815 e:\programmer\cpp_work_tanchishe\include\apple.h
+	<po.h>
+	<list>
+	<map_snake.h>
+
